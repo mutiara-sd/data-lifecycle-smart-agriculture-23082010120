@@ -57,6 +57,5 @@ Berdasarkan hasil analisis:
 
 ## Conclusion
 Berdasarkan hasil analisis yang dilakukan, dataset Smart Agriculture memiliki kualitas data yang baik dan dapat digunakan untuk memahami kondisi lingkungan dalam sistem pertanian pintar. Visualisasi dashboard membantu dalam mempermudah interpretasi data serta monitoring parameter sensor.
-- Data memiliki struktur yang baik untuk dianalisis lebih lanjut
 
-## Project Structure
+
